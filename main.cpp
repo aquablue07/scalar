@@ -27,8 +27,7 @@ unsigned int get_minimum_crossing_time(unsigned int n)
     }
     else if (n == 3)
     {
-        // Unfortunately the method below does not
-        // give the minimum time for three people
+        
         
         // Person 0 and 1 cross from A to B
         // Person 0 crosses back to A
